@@ -13,7 +13,14 @@ Modify your parameters SSID/Password and Printer IP.
 
 Upload sketch and restart KlipperScreen.
 
-Optionally I have attached the STL for the case I use.
+Optionally I have attached the STL for the case I use.  Below are the parts I used
+
+https://www.amazon.com/dp/B09R43HCY3?ref=ppx_yo2ov_dt_b_product_details&th=1
+https://www.amazon.com/dp/B0C2HJNRDB?psc=1&ref=ppx_yo2ov_dt_b_product_details
+
+Case requires 4 2.5mm x 12mm screws
+
+
 
 
 
